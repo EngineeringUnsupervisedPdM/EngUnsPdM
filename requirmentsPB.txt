@@ -1,0 +1,8 @@
+pandas
+numpy
+statistics
+tsfel
+tslearn
+dtaidistance
+scipy
+sklearn

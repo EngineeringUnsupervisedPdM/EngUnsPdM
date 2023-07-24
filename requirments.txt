@@ -1,0 +1,11 @@
+pandas
+tqdm
+matplotlib
+dgl
+numpy
+SciencePlots
+scikit-learn
+xlrd==1.2.0
+statistics
+datetime
+fbprophet
