@@ -20,6 +20,7 @@ pip3 install -r requirements.txt
 
 The documentation and examples for all methods can be found in **examples.ipynb** file.
 
+**Supervised_Experiment.ipynb** presents an experiment regarding the usage of a classifier using two methodlogies. One ignoring the time episodes collected (with high performance f1=0.82), which is not feasible in real world, and on the other hand, a methodology which respect the time the episodes collected to build train and test datasets, with very poor performance (f1=0.02). Α more complete description can be found on paper and in the notebook file. 
 
 To run the code, you will need to extract the files (methods.py, ProfileBased.py, and TranADscripts.py) from Methods.zip and place them in the root folder. To obtain the password required for extraction, please send a request to the following email address: engineeringunsupervised@gmail.com.
 
