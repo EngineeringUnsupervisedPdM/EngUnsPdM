@@ -1,4 +1,4 @@
-# Implementation of "Engineering and evaluating an unsupervised predictive maintenance solution: a real world case-study".
+# Implementation of "Engineering and evaluating an unsupervised predictive maintenance solution: a cold-forming press case-study".
 
 Two main algorithms are provided:
 
